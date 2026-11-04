@@ -1,0 +1,1 @@
+{"id":"PaelsWingFix","name":"佩尔之翼修复","author":"U_Light","description":"合并重复的献祭选项，保留每个佩尔之翼的独立结算。","version":"1.0.0","min_game_version":"0.111.0","has_pck":false,"has_dll":true,"dependencies":[],"affects_gameplay":true}
